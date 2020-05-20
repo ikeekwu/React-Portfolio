@@ -14,15 +14,19 @@
   },
   "repository": {
     "type": "git",
+
     "url": "git+https://github.com/ikeekwu/react-portfolio.git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
+
     "url": "https://github.com/ikeekwu/react-portfolioy/issues"
   },
   "homepage": "https://github.com/ikeekwu/react-portfolio#readme",
+
   "dependencies": {
     "concurrently": "^5.2.0",
     "express": "^4.17.1",

@@ -10,6 +10,7 @@ const express = require('express');
 // Initialize express under app variable
 const app = express();
 const PORT = process.env.PORT || 3001;
+
 /*****************|
 |* SET UP ROUTES *| 
 |*****************/
