@@ -5,7 +5,7 @@ import { GithubOutlined, LikeOutlined, StarOutlined } from '@ant-design/icons';
 const listData = [
   {
     href1: "",
-    href2: "",
+    href2: "https://github.com/ikeekwu/Note-Taker",
     title: "Note Taker",
     description:
       "A note taking web app using Node and Express and storing notes in a JSON file.",
@@ -49,7 +49,7 @@ const listData = [
     description:
       "Employee directory built using React and the Ant Design component library. It also uses an API which randomly generates employee information. Clicking search after doing a search will bring unfiltered database back without refreshing and creating a new random database. You can search any parameter you would like, whether it be phone number, name, or state.",
     img: "",
-  }
+  },
 ];
 
 
