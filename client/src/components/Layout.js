@@ -75,7 +75,7 @@ state = {
             >
               <Route className="about" exact path="/" component={About} />
               <Route exact path="/Projects" component={Projects} />
-              {/* <Route exact path="/Contact" component={Contact}/>  */}
+              <Route exact path="/Contact" component={Contact}/> 
             </Content>
             <Footer>
               <small>My Portfolio</small>
